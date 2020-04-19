@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="@dimen/standard_28"
     android:orientation="vertical"
-    tools:context=".OtpVerificationActivity">
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -40,7 +40,7 @@
         />
 
     <com.chaos.view.PinView
-        android:id="@+id/firstPinView"
+        android:id="@+id/otpCodeView"
         style="@style/PinWidget.PinView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

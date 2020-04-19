@@ -83,4 +83,8 @@
     <string name="pending">বিতরণ বাকি: ১০৪৩০</string>
     <string name="yourAmount">আপনার বিতরণ: ২৫</string>
     <string name="successfullyScanned">আপনার স্ক্যানটি সফল হয়েছে</string>
+    <string name="firebase_sms_string">is your verification code</string>
+    <string name="invalidOtp">আপনি ভুল কোড প্রবেশ করেছেন</string>
+    <string name="pleaseWait">অনুগ্রহ করে অপেক্ষা করুন</string>
+    <string name="verifyingOtp">কোডটি যাচাই হচ্ছে</string>
 </resources>

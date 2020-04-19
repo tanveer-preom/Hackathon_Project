@@ -14,7 +14,7 @@ class SplashScreenActivity : AppCompatActivity() {
             sleep(2000)
             runOnUiThread {
                 finish()
-                startActivity(Intent(this, LoginActivity::class.java))
+                NumberInputActivity.startActivity(this, NumberInputActivity.Type.LOGIN)
             }
         }).start()
     }

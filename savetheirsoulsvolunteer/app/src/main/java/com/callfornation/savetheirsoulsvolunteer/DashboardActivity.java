@@ -50,10 +50,7 @@ public class DashboardActivity extends AppCompatActivity {
                 } else {
                     Toast.makeText(this, "Permission chara kaaj hobe na :(", Toast.LENGTH_LONG).show();
                 }
-
             }
-
-
         }
     }
 }
