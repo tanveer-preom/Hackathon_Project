@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Volunteer</string>
+    <string name="app_name">বন্ধু</string>
     <string name="welcomeText">আলোকবর্তিকা অ্যাপ এ আপনাকে স্বাগতম</string>
     <string name="registerNewAccount">নতুন নিবন্ধন করতে এখানে ক্লিক করুন</string>
     <string name="or">অথবা</string>
