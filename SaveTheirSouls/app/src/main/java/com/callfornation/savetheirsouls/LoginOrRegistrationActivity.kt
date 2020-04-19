@@ -15,11 +15,11 @@ class LoginOrRegistrationActivity : AppCompatActivity() {
 
     fun onRegistrationClicked(view: View) {
         finish()
-        startActivity(Intent(this, RegisterActivity::class.java))
+        NumberInputActivity.startActivity(this, NumberInputActivity.Type.REGISTRATION)
     }
 
     fun onLoginClicked(view: View) {
         finish()
-        startActivity(Intent(this, LoginActivity::class.java))
+        NumberInputActivity.startActivity(this, NumberInputActivity.Type.LOGIN)
     }
 }

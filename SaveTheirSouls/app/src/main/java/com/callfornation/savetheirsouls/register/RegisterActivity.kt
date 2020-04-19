@@ -6,13 +6,13 @@ import android.os.Bundle
 import android.view.View
 import android.view.Window
 import android.widget.EditText
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.callfornation.savetheirsouls.OtpVerificationActivity
+import com.callfornation.savetheirsouls.otp.OtpVerificationActivity
 import com.callfornation.savetheirsouls.R
+import com.callfornation.savetheirsouls.dashboard.DashboardActivity
 import com.callfornation.savetheirsouls.register.data.FamilyAdapter
 import com.callfornation.savetheirsouls.register.data.FamilyMember
 
@@ -57,7 +57,7 @@ class RegisterActivity : AppCompatActivity() {
 
     fun doneClicked(view: View) {
         finish()
-        startActivity(Intent(this, OtpVerificationActivity::class.java))
+        startActivity(Intent(this, DashboardActivity::class.java))
     }
 
 }

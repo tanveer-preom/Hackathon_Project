@@ -77,4 +77,8 @@
     <string name="familyMemberInfo">পরিবারের অন্য সদস্যদের পরিচয় প্রদান করুন</string>
     <string name="reportSuccessfullySubmitted">আপনার অভিযোগটি সফলভাবে প্রেরণ করা হয়েছে</string>
     <string name="activity_qr_code">QR কোড</string>
+    <string name="firebase_sms_string">is your verification code</string>
+    <string name="invalidOtp">আপনি ভুল কোড প্রবেশ করেছেন</string>
+    <string name="pleaseWait">অনুগ্রহ করে অপেক্ষা করুন</string>
+    <string name="verifyingOtp">কোডটি যাচাই হচ্ছে</string>
 </resources>
