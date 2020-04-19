@@ -78,8 +78,9 @@
     <string name="reportSuccessfullySubmitted">আপনার অভিযোগটি সফলভাবে প্রেরণ করা হয়েছে</string>
     <string name="activity_qr_code">QR কোড</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="total">বিতরণ হয়েছে : ৩৩৬</string>
-    <string name="pending">বিতরণ বাকি : ১০৪৩০</string>
-    <string name="yourAmount">আপনার বিতরণ : ২৫</string>
+    <string name="area_name">এলাকার নাম: আমতলী</string>
+    <string name="total">বিতরণ হয়েছে: ৩৩৬</string>
+    <string name="pending">বিতরণ বাকি: ১০৪৩০</string>
+    <string name="yourAmount">আপনার বিতরণ: ২৫</string>
     <string name="successfullyScanned">আপনার স্ক্যানটি সফল হয়েছে</string>
 </resources>

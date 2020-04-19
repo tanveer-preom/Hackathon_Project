@@ -46,7 +46,7 @@
         android:layout_height="wrap_content"
         android:cursorVisible="true"
         android:layout_gravity="center"
-        android:inputType="text"
+        android:inputType="number"
         android:padding="@dimen/standard_4"
         android:textColor="?colorPrimary"
         android:textSize="18sp"

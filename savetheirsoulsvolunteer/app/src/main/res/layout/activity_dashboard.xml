@@ -26,8 +26,14 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center"
-        android:padding="@dimen/standard_32"
-        >
+        android:padding="@dimen/standard_32">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/area_name"
+            android:gravity="center"
+            />
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,7 +65,7 @@
             android:text="@string/clickForRelief"
             android:textColor="@color/white"
             android:layout_gravity="bottom"
-            android:layout_marginTop="@dimen/standard_18"
+            android:layout_marginTop="@dimen/standard_32"
             android:onClick="scanQrClicked"
             />
 
